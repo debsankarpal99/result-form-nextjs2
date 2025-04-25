@@ -9,12 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "latest", // Or the specific version you want
-    "react": "latest", // Or the specific version you want
-    "react-dom": "latest" // Or the specific version you want
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
-    "eslint": "latest", // Optional: for linting
-    "eslint-config-next": "latest" // Optional: for linting
+    "eslint": "latest",
+    "eslint-config-next": "latest"
   }
 }
